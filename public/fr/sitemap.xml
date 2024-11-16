@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/tags/advice/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/tags/advice/"
                 />
@@ -21,6 +26,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -37,6 +47,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/course/course-5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/course/course-5/"
                 />
@@ -47,6 +62,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/tags/automation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/tags/automation/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -63,6 +83,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/categories/automation-system/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/categories/automation-system/"
                 />
@@ -73,6 +98,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -89,6 +119,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/event/event-1/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/event/event-1/"
                 />
@@ -99,6 +134,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/event/event-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/event/event-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -115,6 +155,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/event/event-3/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/event/event-3/"
                 />
@@ -125,6 +170,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/event/event-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/event/event-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -141,6 +191,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/event/event-5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/event/event-5/"
                 />
@@ -151,6 +206,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/event/event-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/event/event-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -167,6 +227,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/categories/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/categories/deep-learning/"
                 />
@@ -177,6 +242,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -193,6 +263,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/blog/blog-post-1/"
                 />
@@ -203,6 +278,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/blog/blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -219,6 +299,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/blog/blog-post-3/"
                 />
@@ -229,6 +314,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/blog/blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -245,6 +335,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/blog/blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/blog/blog-post-5/"
                 />
@@ -255,6 +350,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/blog/blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/blog/blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -271,6 +371,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/tags/eco/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/tags/eco/"
                 />
@@ -281,6 +386,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/categories/eco-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/categories/eco-system/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -297,6 +407,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/tags/education/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/tags/education/"
                 />
@@ -307,6 +422,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/categories/education-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/categories/education-system/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -323,6 +443,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/"
                 />
@@ -333,6 +458,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/tags/english/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/tags/english/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -349,6 +479,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/categories/english-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/categories/english-learning/"
                 />
@@ -359,6 +494,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/research/research-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/research/research-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -375,6 +515,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/research/research-2/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/research/research-2/"
                 />
@@ -385,6 +530,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/research/research-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/research/research-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -401,6 +551,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/research/research-4/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/research/research-4/"
                 />
@@ -411,6 +566,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/research/research-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/research/research-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -427,6 +587,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/research/research-6/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/research/research-6/"
                 />
@@ -437,6 +602,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/course/course-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/course/course-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -453,6 +623,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/course/course-4/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/course/course-4/"
                 />
@@ -463,6 +638,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/notice/notice-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/notice/notice-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -479,6 +659,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/notice/notice-2/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/notice/notice-2/"
                 />
@@ -489,6 +674,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/notice/notice-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/notice/notice-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -505,6 +695,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/notice/notice-4/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/notice/notice-4/"
                 />
@@ -515,6 +710,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/notice/notice-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/notice/notice-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -531,6 +731,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/notice/notice-6/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/notice/notice-6/"
                 />
@@ -541,6 +746,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/course/course-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/course/course-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -557,6 +767,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/categories/mathmatics-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/categories/mathmatics-learning/"
                 />
@@ -567,6 +782,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/course/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -583,6 +803,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/event/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/event/"
                 />
@@ -593,6 +818,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/research/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -609,6 +839,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/notice/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/notice/"
                 />
@@ -619,6 +854,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/course/course-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/course/course-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -635,6 +875,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/tags/rules/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/tags/rules/"
                 />
@@ -645,6 +890,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -661,6 +911,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/course/course-6/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/course/course-6/"
                 />
@@ -670,6 +925,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -685,6 +945,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/contact/"
                 />
@@ -694,6 +959,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/teacher/alex-rook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/teacher/alex-rook/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -709,6 +979,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/author/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/author/"
                 />
@@ -718,6 +993,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/scholarship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/scholarship/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -733,6 +1013,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/teacher/clark-malik/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/teacher/clark-malik/"
                 />
@@ -742,6 +1027,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/teacher/devid-luis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/teacher/devid-luis/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -757,6 +1047,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/teacher/duis-rio/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/teacher/duis-rio/"
                 />
@@ -766,6 +1061,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/scholarship/scholarship-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/scholarship/scholarship-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -781,6 +1081,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/scholarship/scholarship-2/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/scholarship/scholarship-2/"
                 />
@@ -790,6 +1095,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/scholarship/scholarship-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/scholarship/scholarship-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -805,6 +1115,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/teacher/jacke-mastio/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/teacher/jacke-mastio/"
                 />
@@ -814,6 +1129,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -829,6 +1149,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/author/mark-dinn/"
                 />
@@ -841,6 +1166,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/teacher/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/educenter/site/fr/teacher/"
                 />
@@ -850,6 +1180,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/educenter/site/teacher/zim-cook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/educenter/site/ch/teacher/zim-cook/"
                 />
     <xhtml:link
                 rel="alternate"
